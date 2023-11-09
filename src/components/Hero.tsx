@@ -64,7 +64,7 @@ const Hero = () => {
 
           <br />
 
-          to contribute today
+          to contribute
         </h1>
       </div>
 
